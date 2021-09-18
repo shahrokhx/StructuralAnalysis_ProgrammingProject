@@ -1,0 +1,2 @@
+# StructuralAnalysis_ProgrammingProject
+This is a complete MATLAB project, designed for engineering students (e.g. ME, CEE, AE, etc.), to learn and internalize numerical approaches employed for analysis mechanical structures. This project includes a complete (~15 pages) description and instructions for implementation, the skeleton files, and input file examples. The solution and an auto-grader code to automatically evaluate the students submissions are also available upon request.
