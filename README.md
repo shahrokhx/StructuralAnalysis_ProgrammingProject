@@ -16,4 +16,4 @@ This repository is part of a set of engineering-related codes, where you can fin
 
 ----
 ##### Acknowledgement: 
-Special thanks to the course instructor, Prof. Rafi Muhanna at Georgia Tech for providing the advice and guidance towards designing and preparation of the materials.
+Special thanks to the course instructor, Prof. Rafi Muhanna at Georgia Tech for providing the advice and insights towards designing and preparation of the materials.
